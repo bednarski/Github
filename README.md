@@ -95,3 +95,5 @@ Aqui estão alguns termos fundamentais que você encontrará ao usar Git e GitHub:
 ----------
 
 Esperamos que este README.md tenha fornecido uma base sólida para entender Git e GitHub. Essas ferramentas são incrivelmente poderosas e fundamentais para qualquer desenvolvedor moderno. Comece a explorar e praticar, e você dominará o controle de versão em pouco tempo!
+
+Aguarde novas informações.
